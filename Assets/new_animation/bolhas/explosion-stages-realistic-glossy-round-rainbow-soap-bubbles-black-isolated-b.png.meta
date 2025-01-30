@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 12eb52b94555bc8469b514b5db38e295
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8369028494210222786
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_0
+  - first:
+      213: -218632894666314080
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_1
+  - first:
+      213: 1860576435957797319
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_2
+  - first:
+      213: -345904553915463722
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_3
+  - first:
+      213: 4721227705645421116
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_4
+  - first:
+      213: 3993220847429641813
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_5
+  - first:
+      213: 4267719319917434729
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_6
+  - first:
+      213: -6326109413339316458
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_7
+  - first:
+      213: 5960209144674869354
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_8
+  - first:
+      213: -150454783555563797
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_9
+  - first:
+      213: -7361293289429416499
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_10
+  - first:
+      213: 6351105328768036764
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_11
+  - first:
+      213: -1650051170658149005
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_12
+  - first:
+      213: -1005026200685337881
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_13
+  - first:
+      213: -3892527752736984084
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_14
+  - first:
+      213: 2813063879534012517
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_15
+  - first:
+      213: 7285828618242170857
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_16
+  - first:
+      213: -8620720399861405112
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_17
+  - first:
+      213: -4215549865928721381
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_18
+  - first:
+      213: 4002684622724514237
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_19
+  - first:
+      213: -970703801529455785
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_20
+  - first:
+      213: -8674968768030441896
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_21
+  - first:
+      213: 5658476488761777059
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_22
+  - first:
+      213: 7079178927682667196
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_23
+  - first:
+      213: 486113182023331722
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_24
+  - first:
+      213: 7178816632015842671
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_25
+  - first:
+      213: -7633110338971606280
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_26
+  - first:
+      213: 8991517105794777359
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_27
+  - first:
+      213: -1866916302153117543
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_28
+  - first:
+      213: -6108784227001867047
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_29
+  - first:
+      213: -6405397972407925239
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_30
+  - first:
+      213: -3699361262993676414
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_31
+  - first:
+      213: 1058930200914881225
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_32
+  - first:
+      213: 3349133079148032194
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_33
+  - first:
+      213: 4901742951552724760
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_34
+  - first:
+      213: 7433701473083072577
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_35
+  - first:
+      213: 8370006018505932918
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_36
+  - first:
+      213: -3876735744706499131
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_37
+  - first:
+      213: 8552352260079191459
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_38
+  - first:
+      213: 2520766053254302471
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_39
+  - first:
+      213: 126881057315219441
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_40
+  - first:
+      213: 5112132758194538761
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_41
+  - first:
+      213: -4109429499807632392
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_42
+  - first:
+      213: -9114837344500424732
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_43
+  - first:
+      213: 8804322256960638079
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_44
+  - first:
+      213: 8485513660342630200
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_45
+  - first:
+      213: 4077797577326492981
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_46
+  - first:
+      213: -9049164831228287544
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_47
+  - first:
+      213: -5831263864102013373
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_48
+  - first:
+      213: -3650745804612620228
+    second: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 959
+        width: 385
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3726c39db9a4a2746b0785e6cef12cfb
+      internalID: 9773838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 901
+        width: 387
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb38072a03cef54abf21b48f5c0af6e
+      internalID: -390218288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_2
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 920
+        width: 438
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8de86b90cb57344f93d292df81bc64e
+      internalID: -612565673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_3
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 910
+        width: 412
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69aaf5c022d4d440ad9bf48fe987837
+      internalID: 1624079987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_4
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1057
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed519f89ab4cea949891a704052b8316
+      internalID: 1238268753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_5
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 767
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b21a0d8a54e91a409d5fe6ef4411260
+      internalID: -98853654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_6
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 773
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28847fea328b6284eb537eb783529646
+      internalID: -1016455641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_7
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 764
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a046a7267efc348a88443917fb550f
+      internalID: -2085237149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_8
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 261
+        width: 522
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa623bc0503c584ba0e229b97fbfe27
+      internalID: 70520709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_9
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 737
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1fc8a8c47b78446b41990838fe99fb
+      internalID: -457511819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_10
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 745
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6584ea62de50a844ae435ef12e879fc
+      internalID: 177360478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_11
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 743
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f63d660a57ff54f9e47788f2286f0e
+      internalID: 629177286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 271
+        width: 517
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812e09a132c5c1c43b6a1a9661c5999e
+      internalID: 1040202090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_13
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 297
+        width: 497
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e1d1a919ffd4444bcab27601b20ed5
+      internalID: -576034547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_14
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 702
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a6ffe823b4643458023a2511e812ca
+      internalID: -454123823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_15
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 674
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee571895a1304a1429de86ba2fe812a3
+      internalID: -651202236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_16
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 639
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e268859baac7ea41bc061759dbaf522
+      internalID: -872223641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_17
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 632
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e639cc93de4a4fbfd1c72152e982c
+      internalID: -512076300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_18
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 600
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f32a7e38987244cb824dfff2576abe
+      internalID: 747833060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_19
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 538
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c7b336ec4494b499c7e71af9ce3588
+      internalID: 2126114381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_20
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 554
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6397e5b0f65684f87eeaf676df7537
+      internalID: -1099660695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 538
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4c72f37341704db95afd4429e8af2
+      internalID: -418598576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_22
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 521
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780ffdc77ebb0664ebf48bc9c7a2c050
+      internalID: -685541898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_23
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 535
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d7e1445a05fd841ab35e542ca5732b
+      internalID: -860181121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_24
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 535
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0ee6bbc859ed42b573d71643c5db5
+      internalID: 1507930587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_25
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 512
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa629ce8188aa24f8c15fc21e841022
+      internalID: -1192603474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_26
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 492
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6692f64a14eaa4f8695b9360d58d5d
+      internalID: 1091277708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_27
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 481
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca6f028c88128428fd8a8156ca4be2
+      internalID: 1282244836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_28
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 363
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a28ba289f237f24380badbdb33a3873
+      internalID: -1585441084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_29
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 342
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e60afaaa9b0244bb62db751f49bd0
+      internalID: 1560497692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_30
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 277
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1208ac25e4323a4ca08f09635ccd004
+      internalID: 1264199912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_31
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 296
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1025514e45418d4696ef39cb28059dd
+      internalID: -765303411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_32
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 288
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3155637a846254da943c315a83d0ef
+      internalID: -794428455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 250
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5293badaed6e42e4a876b6f03e0c6352
+      internalID: -1297852154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 267
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07bb0c0f8eafe94cba521ad87241754
+      internalID: 1134257001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_35
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d5b25d999c509479f49dfb7aaf1e06
+      internalID: 1134411076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_36
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 257
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e26955e2e5932438f3371b295cab5b
+      internalID: -96380137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_37
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 272
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2279bcb2934dda468c35e497543de5c
+      internalID: -1196269911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_38
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 263
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d6c76e278ef924ea41c1f7539fa6cf
+      internalID: 367202848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_39
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 270
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed07a91ec081d024c88aca979aed50be
+      internalID: -1212840865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 246
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38de41bd8b43ca449a2e9a8a23106843
+      internalID: 312671424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_41
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 251
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7937eb82e611345b1da16033bc063d
+      internalID: 788299349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_42
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 248
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc38aca27ea9a84f8f967f744daf0f2
+      internalID: 988495001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_43
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 252
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a607a1a966d29bc4c9b791140b5576ae
+      internalID: -1521499848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_44
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 246
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe84172fd455264890ceca729e207cc
+      internalID: 1214907471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_45
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 250
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b26e3cbe06c84ab2f860ba665bc63
+      internalID: -1157542271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 232
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f090fb9c3535f542b16b392c358f442
+      internalID: 1897437290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_47
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 229
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48685015bbda14db8912e6b92e215d
+      internalID: -1367256052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_48
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 223
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404521cff9bd74a48923867d17216317
+      internalID: 1389874618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_49
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 235
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd76448fd42624ebaa10432782d9b6
+      internalID: 1603727877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c1b393a98a4b8a248a34b304f8624f91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_0: 9773838
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_1: -390218288
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_10: 177360478
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_11: 629177286
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_12: 1040202090
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_13: -576034547
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_14: -454123823
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_15: -651202236
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_16: -872223641
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_17: -512076300
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_18: 747833060
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_19: 2126114381
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_2: -612565673
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_20: -1099660695
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_21: -418598576
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_22: -685541898
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_23: -860181121
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_24: 1507930587
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_25: -1192603474
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_26: 1091277708
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_27: 1282244836
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_28: -1585441084
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_29: 1560497692
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_3: 1624079987
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_30: 1264199912
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_31: -765303411
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_32: -794428455
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_33: -1297852154
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_34: 1134257001
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_35: 1134411076
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_36: -96380137
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_37: -1196269911
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_38: 367202848
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_39: -1212840865
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_4: 1238268753
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_40: 312671424
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_41: 788299349
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_42: 988495001
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_43: -1521499848
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_44: 1214907471
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_45: -1157542271
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_46: 1897437290
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_47: -1367256052
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_48: 1389874618
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_49: 1603727877
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_5: -98853654
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_6: -1016455641
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_7: -2085237149
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_8: 70520709
+      explosion-stages-realistic-glossy-round-rainbow-soap-bubbles-black-isolated-b_9: -457511819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
