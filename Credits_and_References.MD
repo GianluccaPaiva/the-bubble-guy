@@ -19,6 +19,8 @@ casa: https://br.freepik.com/vetores-gratis/bela-casa_4979878.htm#fromView=keywo
 4) Scripts e códigos:
 https://www.youtube.com/watch?v=-kE1DpjUwQs&list=PLMnRba11G0Cb_b8C7_hpbPignF1FzvAjN
 
+5) Musicas
+Obtidas pela plataforma: https://pixabay.com/pt/music/search/trilha%20sonora/ (Royalty-free)
 --------------------------------------------------------------------------------------
 
 Assets and Scripts Used:
@@ -41,3 +43,6 @@ house: https://br.freepik.com/vetores-gratis/bela-casa_4979878.htm#fromView=keyw
 
 Scripts and Code:
 https://www.youtube.com/watch?v=-kE1DpjUwQs&list=PLMnRba11G0Cb_b8C7_hpbPignF1FzvAjN
+
+Music
+Get it by the plataform: https://pixabay.com/pt/music/search/trilha%20sonora/ (Royalty-free)
