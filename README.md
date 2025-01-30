@@ -10,6 +10,8 @@ Sendo nosso primeiro projeto, reconhecemos que ele pode apresentar pequenas impe
 
 Esperamos que você se divirta e sinta o mesmo carinho que colocamos em sua criação.
 
+Salientamos que foi ultilizado o uso do Chatgpt e copilot com intuito de *auxilio* na correção de bugs não conseguido ser visualizado pelos desenvolvedores. O script não foi feito por essas ias apenas corrigido erros não encontrado por nós.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### A game created by Gabriel Lineker and Gianlucca Paiva.
@@ -20,3 +22,5 @@ The game's development relied on various assets provided by the community, as we
 As our first project, we acknowledge that it may have minor imperfections or bugs. However, every detail was crafted with dedication and passion, serving as a tribute to the stories and experiences that shaped us as gamers.
 
 We hope you have fun and feel the same care and passion we put into its creation.
+
+We emphasize that the use of Chatgpt and copilot was used in order to *assist* in correcting bugs that could not be seen by the developers. The script was not written by these ias, it just fixed errors not found by us.
